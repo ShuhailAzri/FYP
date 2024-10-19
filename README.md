@@ -50,22 +50,10 @@
 <h2>Conclusion</h2>
 <p>This project not only demonstrates the effectiveness of machine learning in predicting health insurance pricing but also provides actionable insights for insurance companies to optimize their offerings. By utilizing advanced regression techniques and data visualizations, we aim to contribute to better decision-making in health insurance pricing.</p>
 
-<h2>Getting Started</h2>
-<p>To replicate this study, follow these steps:</p>
-<ol>
-    <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/health-insurance-pricing-prediction.git</code></pre>
-    </li>
-    <li>Install the required dependencies:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li>Run the analysis:
-        <pre><code>python main.py</code></pre>
-    </li>
 </ol>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p> TBD </p>
 
 <h2>Contact</h2>
 <p>Feel free to reach out with any questions or contributions!</p>
