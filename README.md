@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
 </head>
 <body>
 
-<h1>Health Insurance Pricing Prediction</h1>
+<h1>Health Insurance Pricing Prediction <img src="https://cdn.eduadvisor.my/institution/mmu/ea-inst-logo-mmu.png" alt="Logo" style="height: 50px; vertical-align: middle;"></h1>
 
 <h2>Overview</h2>
 <p>Insurance serves as a vital tool for managing risk and protecting against financial loss, particularly in today's fast-paced world filled with uncertainties. The recent coronavirus pandemic has heightened the importance of understanding health insurance pricing, making it a critical area of study.</p>
@@ -66,7 +65,7 @@
 </ol>
 
 <h2>License</h2>
-<p>TBC.</p>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Contact</h2>
 <p>Feel free to reach out with any questions or contributions!</p>
